@@ -91,7 +91,7 @@ def myfunc():
 ## **Setup Instructions**  
 1. **Clone the repository**:  
    ```sh
-   git clone https://github.com/HareenaChowdary/Netflix-Data-Pipeline-Azure-Powered-ETL-with-Delta-Live-Tables.git
+   git clone https://github.com/HareenaChowdary/Netflix-Data-Engineering.git
    ```
 2. **Set up Azure services** (Data Factory, Databricks, Data Lake, Synapse, Power BI).  
 3. **Configure Databricks Workflows** and **Delta Live Tables (DLT)**.  
